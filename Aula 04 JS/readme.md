@@ -1,6 +1,6 @@
 # :id: Códigos em HTML / CSS / JavaScript :link:
 ### Códigos editados por:
-* :copyright: Daniel de Andrade Santos*
+:copyright: *Daniel de Andrade Santos*
 ## Exercícios por: 
 * Gustavo Guanabara  / <https://www.youtube.com/c/CursoemV%C3%ADdeo> :boom:
 ## O que foi feito:
