@@ -11,3 +11,5 @@ function maior() {
         res.innerHTML = `<p>Analisando os valores <mark>${n1}</mark> e <mark>${n2}</mark>, ambos são <strong>IGUAIS</strong></p>`
     }
 }
+
+// Foi criado variáveis para pedir a resposta do Usuário e entrar numa estrutura condicional -- Daniel de Andrade;

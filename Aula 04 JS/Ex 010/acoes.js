@@ -16,3 +16,6 @@ function acao3() {
 function acao4() {
     resp.innerHTML += '<p>Clicou no quarto botão</p>'
 }
+
+
+// Foi criado 4 funções para um determinado botão; -- Daniel de Andrades; 

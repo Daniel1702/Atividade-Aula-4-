@@ -13,3 +13,5 @@ function limpar() { // Essa é a funcionalidade do outro botão, pra limpar tudo
     let res = document.querySelector('section#result')
     res.innerHTML = null // Vai esvaziar a section toda
 }
+
+// O Código foi feito para que a máquina "pense" em um número de 1 até 100 e pede a informação do usuário para adivinhar; -- Daniel de Andrade;

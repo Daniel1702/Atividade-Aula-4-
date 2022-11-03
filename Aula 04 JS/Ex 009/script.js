@@ -8,6 +8,6 @@ function contar() {
 }
 
 function zerar() {
-    contador = 0
+    contador = 0                // contador recebe "0"  -- Daniel de Andrade
     res.innerHTML = null
 }

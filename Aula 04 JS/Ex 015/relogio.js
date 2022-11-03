@@ -18,3 +18,5 @@ function info() {
     saida.innerHTML += `<p>Minutos: <mark>${min}</mark></p>`
     saida.innerHTML += `<p>Segundos: <mark>${seg}</mark></p>`
 }
+
+// Foi criado variáveis para os Meses, Semanas, e a data atual. -- Daniel de Andrade;

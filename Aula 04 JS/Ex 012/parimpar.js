@@ -1,7 +1,7 @@
 function teste() {
-    let num = Number(window.prompt('Digite um número: '))
+    let num = Number(window.prompt('Digite um número: ')) 
     let tipo
-    if (num % 2 == 0) {
+    if (num % 2 == 0) { // estrutura de condição que vai avaliar a variável 'num' -- Daniel de Andrade;
         tipo = '<strong>PAR</strong>'
     } else {
         tipo = '<strong>ÍMPAR</strong>'
